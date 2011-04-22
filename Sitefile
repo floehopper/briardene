@@ -1,7 +1,10 @@
+SITE.host = "jamesmead.org"
+SITE.user = 'jamesmead'
+SITE.remote_dir = '/var/apps/briardene/'
 
 task :default => :build
 
 desc 'deploy the site to the webserver'
-task :deploy => [:build, 'deploy:rsync']
+task :deploy => ['clobber', 'build', 'deploy:rsync']
 
 # EOF
