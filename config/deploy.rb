@@ -5,7 +5,7 @@ require 'freerange/deploy'
 require 'freerange/puppet'
 require 'floehopper/deploy'
 
-set :repository, 'git@github.com:floehopper/briardene.org.git'
+set :repository, 'git@github.com:floehopper/briardene.git'
 set :application, 'briardene'
 
 namespace :deploy do
