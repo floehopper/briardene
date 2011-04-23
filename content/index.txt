@@ -4,9 +4,19 @@ filter:
   - erb
   - markdown
 ---
-<p class="title"><%= @page.title %></p>
+## Summary
 
 A modern three-storey townhouse in the centre of Durham with views of the Cathedral and Castle. Two reception rooms, kitchen/breakfast room, three bedrooms, internal garage, off-road parking, sunny patio and very large communal garden.
+
+Contact: Hannah Smithson & James Mead
+Email: hannah.smithson@durham.ac.uk
+Work Telephone: 0191 3343290
+Home Telephone: 0191 3832936
+Mobile Telephone: 07939 156754
+
+### Disclaimer
+
+We have tried to make the following particulars as accurate as possible, but we're sure you will appreciate that we're obliged to point out that they cannot be relied on! We have also avoided the more fanciful value-laden adjectives.
 
 ## Outline
 
