@@ -150,6 +150,8 @@ It is not possible to have a large vegetable patch in the garden, but the [St Ma
 
 ## Directions
 
+<p id="map_canvas" style="width:500px; height:300px"></p>
+
 ### Driving
 
 Driving along Margery Lane, turn into Summerville (left, if you have come past Durham School, right if you have come from the traffic lights at the bottom of Crossgate Peth). The street bends to the left and becomes Back Nevilledale Terrace. Number 35 is the first modern house on the lefthand side.
