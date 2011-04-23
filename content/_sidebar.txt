@@ -3,175 +3,70 @@ filter:
   - erb
   - markdown
 ---
-<div class="figure">
 
-<a href="/ParticularsFor35Briardene_files/houseInSpring60percent.jpg">
-<img src="/ParticularsFor35Briardene_files/houseInSpringCrop200.jpg" alt="The house in spring" height="231" width="200">
-</a>
-<p>The house in spring, taken from the garden.  This side of the house
-faces the Cathedral.
+[![The house in spring](/ParticularsFor35Briardene_files/houseInSpringCrop200.jpg)](/ParticularsFor35Briardene_files/houseInSpring60percent.jpg)
 
-</p></div>
+The house in spring, taken from the garden. This side of the house faces the Cathedral.
 
-<p>Overall, the following pictures give a fairly good idea about the
-colour-schemes, <i>etc,</i> in each room, but they are a poor guide to
-the room sizes.  Click on each image to see a larger picture.
+Overall, the following pictures give a fairly good idea about the colour-schemes, *etc*, in each room, but they are a poor guide to the room sizes. Click on each image to see a larger picture.
 
-</p><div class="figure">
+[![First sitting room](/ParticularsFor35Briardene_files/sunny1stsitting200.JPG)](/ParticularsFor35Briardene_files/sunny1stsitting.JPG)
 
-<a href="/ParticularsFor35Briardene_files/sunny1stsitting.JPG">
-<img src="/ParticularsFor35Briardene_files/sunny1stsitting200.JPG" alt="First sitting room" width="200">
-</a>
-<p>First sitting room.
+First sitting room.
 
-</p></div>
+[![Kitchen looking outwards](/ParticularsFor35Briardene_files/kitchen200.JPG)](/ParticularsFor35Briardene_files/kitchen.JPG)
 
-<div class="figure">
+The kitchen, looking out to the patio.
 
-<a href="/ParticularsFor35Briardene_files/kitchen.JPG">
-<img src="/ParticularsFor35Briardene_files/kitchen200.JPG" alt="Kitchen looking outwards" width="200">
-</a>
-<p>The kitchen, looking out to the patio.
+[![Kitchen units](/ParticularsFor35Briardene_files/kitchenAgain200.JPG)](/ParticularsFor35Briardene_files/kitchenAgain.JPG)
 
-</p></div>
+Kitchen units and tiling.
 
-<div class="figure">
+[![The patio](/ParticularsFor35Briardene_files/patio200.JPG)](/ParticularsFor35Briardene_files/patio.JPG)
 
-<a href="/ParticularsFor35Briardene_files/kitchenAgain.JPG">
-<img src="/ParticularsFor35Briardene_files/kitchenAgain200.JPG" alt="Kitchen units" width="200">
-</a>
-<p>Kitchen units and tiling.
+The patio; I should have raked the leaves first. Those plants aren't dead, they're resting.
 
-</p></div>
+[![Downstairs toilet](/ParticularsFor35Briardene_files/dsToilet200.JPG)](/ParticularsFor35Briardene_files/dsToilet.JPG)
 
-<div class="figure">
+Downstairs toilet.
 
-<a href="/ParticularsFor35Briardene_files/patio.JPG">
-<img src="/ParticularsFor35Briardene_files/patio200.JPG" alt="The patio" width="200">
-</a>
-<p>The patio; I should have raked the leaves first.  Those plants
-aren't dead, they're resting.
+[![Bathroom](/ParticularsFor35Briardene_files/stairs200.JPG)](/ParticularsFor35Briardene_files/stairs.JPG)
 
-</p></div>
+Colours of halls, stairs and landing.
 
-<div class="figure">
+[![Second sitting room](/ParticularsFor35Briardene_files/sunny2ndsitting200.JPG)](/ParticularsFor35Briardene_files/sunny2ndsitting.JPG)
 
-<a href="/ParticularsFor35Briardene_files/dsToilet.JPG">
-<img src="/ParticularsFor35Briardene_files/dsToilet200.JPG" alt="Downstairs toilet" width="200">
-</a>
-<p>Downstairs toilet.
+Second sitting room, looking towards the Cathedral tower.
 
-</p></div>
+[![View of the garden](/ParticularsFor35Briardene_files/sunnyGarden200.JPG)](/ParticularsFor35Briardene_files/sunnyGarden.JPG)
 
-<div class="figure">
+View of the garden, looking north-east from the first floor. It's a lot leafier in the summer.
 
-<a href="/ParticularsFor35Briardene_files/stairs.JPG">
-<img src="/ParticularsFor35Briardene_files/stairs200.JPG" alt="Bathroom" width="200">
-</a>
-<p>Colours of halls, stairs and landing.
+[![First bedroom](/ParticularsFor35Briardene_files/bedroom1st200.JPG)](/ParticularsFor35Briardene_files/bedroom1st.JPG)
 
-</p></div>
+First bedroom, has view of the Cathedral and Castle.
 
-<div class="figure">
+[![Second bedroom](/ParticularsFor35Briardene_files/bedroom2nd200.JPG)](/ParticularsFor35Briardene_files/bedroom2nd.JPG)
 
-<a href="/ParticularsFor35Briardene_files/sunny2ndsitting.JPG">
-<img src="/ParticularsFor35Briardene_files/sunny2ndsitting200.JPG" alt="Second sitting room" width="200">
-</a>
-<p>Second sitting room, looking towards the Cathedral tower.
+Second bedroom, also has view of the Cathedral and Castle.
 
-</p></div>
+[![Cathedral view](/ParticularsFor35Briardene_files/sunyCathEven200.JPG)](/ParticularsFor35Briardene_files/sunyCathEven.JPG)
 
-<div class="figure">
+Cathedral view from second floor, evening (first bedroom).
 
-<a href="/ParticularsFor35Briardene_files/sunnyGarden.JPG">
-<img src="/ParticularsFor35Briardene_files/sunnyGarden200.JPG" alt="View of the garden" width="200">
-</a>
-<p>View of the garden, looking north-east from the first floor.
-It's a lot leafier in the summer.
+[![View of the garden](/ParticularsFor35Briardene_files/gardenView2nd200.JPG)](/ParticularsFor35Briardene_files/gardenView2nd.JPG)
 
-</p></div>
+View of the garden, looking south-east from the second floor.
 
-<div class="figure">
+[![Third bedroom](/ParticularsFor35Briardene_files/bedroom3rd200.JPG)](/ParticularsFor35Briardene_files/bedroom3rd.JPG)
 
-<a href="/ParticularsFor35Briardene_files/bedroom1st.JPG">
-<img src="/ParticularsFor35Briardene_files/bedroom1st200.JPG" alt="First bedroom" width="200">
-</a>
-<p>First bedroom, has view of the Cathedral and Castle.
 
-</p></div>
+Third bedroom (not such an inspiring view!).
 
-<div class="figure">
+[![Bathroom](/ParticularsFor35Briardene_files/bathroom200.JPG)](/ParticularsFor35Briardene_files/bathroom.JPG)
 
-<a href="/ParticularsFor35Briardene_files/bedroom2nd.JPG">
-<img src="/ParticularsFor35Briardene_files/bedroom2nd200.JPG" alt="Second bedroom" width="200">
-</a>
-<p>Second bedroom, also has view of the Cathedral and Castle.
+Bathroom.
 
-</p></div>
+[![Back Nevilledale Terrace](/ParticularsFor35Briardene_files/sunnyNevilledale200.JPG)](/ParticularsFor35Briardene_files/sunnyNevilledale.JPG)
 
-<div class="figure">
-
-<a href="/ParticularsFor35Briardene_files/sunyCathEven.JPG">
-<img src="/ParticularsFor35Briardene_files/sunyCathEven200.JPG" alt="Cathedral view" width="200">
-</a>
-<p>Cathedral view from second floor, evening (first bedroom).
-
-</p></div>
-
-<!--
-
-<div class="figure">
-
-<a href="images/castleView1st.JPG">
-<img src="images/castleView1st200.JPG" width=200 alt="Castle view">
-</a>
-<p>Castle view from second floor.  See caption above!
-
-</div>
-
-<div class="figure">
-
-<a href="images/doubleView.JPG">
-<img src="images/doubleView200.JPG" width=200 alt="Cathedral and Castle view">
-</a>
-<p>Both the Cathedral and the Castle in one shot.
-
-</div>
-
--->
-
-<div class="figure">
-
-<a href="/ParticularsFor35Briardene_files/gardenView2nd.JPG">
-<img src="/ParticularsFor35Briardene_files/gardenView2nd200.JPG" alt="View of the garden" width="200">
-</a>
-<p>View of the garden, looking south-east from the second floor.
-
-</p></div>
-
-<div class="figure">
-
-<a href="/ParticularsFor35Briardene_files/bedroom3rd.JPG">
-<img src="/ParticularsFor35Briardene_files/bedroom3rd200.JPG" alt="Third bedroom" width="200">
-</a>
-<p>Third bedroom (not such an inspiring view!).
-
-</p></div>
-
-<div class="figure">
-
-<a href="/ParticularsFor35Briardene_files/bathroom.JPG">
-<img src="/ParticularsFor35Briardene_files/bathroom200.JPG" alt="Bathroom" width="200">
-</a>
-<p>Bathroom.
-
-</p></div>
-
-<div class="figure">
-
-<a href="/ParticularsFor35Briardene_files/sunnyNevilledale.JPG">
-<img src="/ParticularsFor35Briardene_files/sunnyNevilledale200.JPG" alt="Back Nevilledale Terrace" width="200">
-</a>
-<p>Back Nevilledale Terrace, looking out of the house to the south-west.
-
-</p></div>
+Back Nevilledale Terrace, looking out of the house to the south-west.
