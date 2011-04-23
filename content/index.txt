@@ -1,19 +1,147 @@
 ---
-title:       Home Page
-created_at:  2008-08-02 14:06:40.000000 -06:00
+title: Home
 filter:
   - erb
-  - textile
+  - markdown
 ---
-p(title). <%= @page.title %>
+<p class="title"><%= @page.title %></p>
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nunc congue ipsum vestibulum libero. Aenean vitae justo. Nam eget tellus. Etiam convallis, est eu lobortis mattis, lectus tellus tempus felis, a ultricies erat ipsum at metus.
+A modern three-storey townhouse in the centre of Durham with views of the Cathedral and Castle. Two reception rooms, kitchen/breakfast room, three bedrooms, internal garage, off-road parking, sunny patio and very large communal garden.
 
-h2. Litora Sociis
+## Outline
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Morbi et risus. Aliquam nisl. Nulla facilisi. Cras accumsan vestibulum ante. Vestibulum sed tortor. Praesent tempus fringilla elit. Ut elit diam, sagittis in, nonummy in, gravida non, nunc. Ut orci. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos hymenaeos. Nam egestas, orci eu imperdiet malesuada, nisl purus fringilla odio, quis commodo est orci vitae justo. Aliquam placerat odio tincidunt nulla. Cras in libero. Aenean rutrum, magna non tristique posuere, erat odio eleifend nisl, non convallis est tortor blandit ligula. Nulla id augue.
+Briardene is a harmonious development of 35 houses on what was formerly Cathedral land, designed by [Donald Insall Associates](http://www.insall-lon.co.uk/), built in 1972-8, and described by Martin Roberts as "noteworthy" ([Durham: 1000 Years of History](http://www.amazon.co.uk/dp/0752425374), Tempus, 2003, p. 174). The development is an easy off-road walk through St Margaret's graveyard to [Framwellgate Bridge](http://en.wikipedia.org/wiki/Framwellgate_Bridge) and a large [Tesco Metro](http://www.tesco.com/storelocator/access/details.asp?bID=6029&l=D) in the Market Place and a [Marks & Spencer](http://www.marksandspencer.com/gp/store-locator/store-locator.html/278-3157984-8643465?ie=UTF8&viewID=details&postcode=DH1%203RB&storeID=2370&prevView=listing&client=mands_01&f_id=186&lon=-1.577010&lat=54.776010&db=GB) on Silver Street, or to [Prebends Bridge](http://en.wikipedia.org/wiki/Prebends_Bridge) at the end of the [South Bailey](http://en.wikipedia.org/wiki/The_Bailey) (through the allotments and onto the riverbanks). It is a five minute walk to St Margaret's CoE Primary School, a ten minute walk to the bus station, a fifteen minute walk to the railway station, and a twenty minute walk to the University Science Laboratories.
 
-bq. Nullam mattis, odio ut tempus facilisis, metus nisl facilisis metus, auctor consectetuer felis ligula nec mauris. Vestibulum odio erat, fermentum at, commodo vitae, ultrices et, urna. Mauris vulputate, mi pulvinar sagittis condimentum, sem nulla aliquam velit, sed imperdiet mi purus eu magna. Nulla varius metus ut eros. Aenean aliquet magna eget orci. Class aptent taciti sociosqu ad litora.
+[Location of Briardene using multimap.com (postcode DH1 4QU)](http://www.multimap.com/map/browse.cgi?lat=54.7734&amp;lon=-1.5855&amp;scale=25000&amp;icon=x). If you have not used this service before, the red circle marks Briardene. You can
+click on the map to zoom in (zoom out by clicking the minus sign above
+Zoom on the toolbar); selecting Aerial from the toolbar allows you to
+overlay an image.
 
-Vivamus euismod. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Suspendisse vel nibh ut turpis dictum sagittis. Aliquam vel velit a elit auctor sollicitudin. Nam vel dui vel neque lacinia pretium. Quisque nunc erat, venenatis id, volutpat ut, scelerisque sed, diam. Mauris ante. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec mattis. Morbi dignissim sollicitudin libero. Nulla lorem.
+The sixteen houses of Lower Briardene (numbers 1-10 and 30-35) enclose a very large communal garden comprising banked lawns and mature trees and shrubs. To the front they look over the St Margaret's allotments and the wooded riverbank. Number 35 is aligned roughly along the east-west axis of the [Cathedral](http://www.durhamcathedral.co.uk/), which is visible from the first and second floors. From the second floor it is also possible to see the [Castle](http://www.dur.ac.uk/university.college/), and out as far as the wind-turbines on the hills above Houghton-le-Spring, about five miles away.
 
+Road access is off Back Nevilledale Terrace, via Summerville. There is off-road parking, and a large internal garage. The house is built in darkbrown brick, faced with hanging tiles on the garden side of the first and second floors. On the ground floor there is kitchen/breakfast room with access to a patio and the garden, a sitting room (or dining room, or fourth bedroom), and a toilet. On the first floor, a second larger sitting room and the garage. On the second floor, three bedrooms and a bathroom. The loft space is partly boarded and useful for storage. The rooms on the ground and first floors are 8' (96") in height; those on the second floor are 7'8"
+(92").
+
+The house was built in 1977. It has gas-fired central heating and water heating, and the radiators have thermostatic valves (excepting the radiator in the bathroom). The windows and doors were replaced in 2011 with uPVC double-glazing. Many of the windows are horizontally-hinged opening sashes. The soffits, fascias & guttering were all replaced at the same time.
+
+The house is in a good decorative state, with plain painted walls and white ceilings in all rooms. The internal doors are varnished dark wood, and the skirtings and door- and window-surrounds are generally white. There are plain fitted carpets in the hall, stairs, and landing, and in the two sitting rooms. The fittings in the kitchen and bathrooms are in good working order but unchanged during the current occupation.
+
+## Room By Room
+
+The room measurements are taken from the brochure drawn up at the time the previous owner bought the house (July 1996); they are only approximate.
+
+### Ground floor
+
+#### Area
+
+14'4" by 9'9". From Back Nevilledale Terrace, the front door is reached down eleven steps into a walled paved area, which is lit at night by a motion-sensitive halogen light. The original single-glazed wooden front door has been replaced by a uPVC double-glazed door.
+
+#### Kitchen/breakfast room
+
+15'2" by 11'6", full-length window and glass door onto the patio and the garden, large side window overlooking the garden. There are wood-fronted fitted kitchen units down two sides, incorporating a white ceramic sink, with space for a stand-alone gas or electric cooker and plumbing for a washing-machine &amp; dish-washer. Large radiator (69") on an internal wall. Water meter.
+
+#### First sitting room or dining room
+
+20' by 9'8", two full-length windows onto the patio and garden. Large radiator (76") on an internal wall. Cornicing.
+
+#### Toilet
+
+7'4" by 3'10". Toilet and pedestal basin (blue), electric shaver point and wiring for electric heater, built-in bookshelves, frosted-glass window.
+
+#### Hall
+
+Radiator (55").
+
+#### Under-stairs cupboard
+
+Wall-hooks for coats and scarves. Fusebox and electricity meter.
+
+#### Immediate garden
+
+The kitchen door opens out onto a patio that runs the width of the house (8' deep). The patio gives way to a flat lawn, in what is technically communal garden, at the edge of which are two flowing cherry trees and a purple-leaved flowing plum tree, and a bed of herbaceous plants including a shrub bay tree.
+
+### First floor
+
+#### Second sitting room
+
+21' by 11'6", two full-length windows looking across the garden (view of the Cathedral tower), and two narrow full-length side windows looking along the length of the garden. Two radiators (55"). Cornicing.
+
+#### Landing
+
+Full-length window. Door to garage.
+
+#### Garage
+
+22' by 9'10" (8'6" in height). Up-and-over garage door, window overlooking the garden, gas-fired central-heating and hotwater boiler (Vaillant). Gas meter. Built-in shelving.
+
+### Second floor
+
+#### First bedroom (double)
+
+13'6" by 9'11". Two windows looking across the garden (view of the Cathedral and Castle), and a narrow full-length side window looking along the length of the garden. Fitted wardrobe. Radiator under windows (36").
+
+#### Second bedroom (double)
+
+11'9" by 9'11". Two large windows looking across the garden (view of the Cathedral and Castle). Fitted wardrobe
+and shelved storage cupboard. Radiator under windows (46"). Stripped floorboards, natural colour.
+
+#### Third bedroom
+
+9'9" by 7'7". Single large window overlooking Back Nevilledale Terrace. Stripped floorboards, darkgreen wood-stain. Radiator under window (36"). Cornicing.
+
+#### Bathroom
+
+7'5" by 5'. Bath with shower and shower curtain, toilet and pedestal basin (buttermilk, with pine bath-panel). Tiled walls. Single frosted-glass window above bath. Cork-tile flooring. Medicine cupboard with mirrored doors. Electric shaver point. Airing cupboard with slatted shelves containing the hotwater tank. Small radiator (17"). Access to the loft, via a pull-down step-ladder.
+
+#### Landing
+
+Full-length window. Radiator (55").
+
+#### Loft
+
+Partially boarded, making a storage space of approximately 8' by 6'. Double layer of fibreglass insulation.
+
+## Additional Information
+
+### Covenants
+
+In common with other houses in the Briardene development, there are a number of restrictive covenants (available on request).
+
+### The Residents' Association
+
+The Residents' Association acts on behalf of the Cathedral Dean and Chapter. It levies a fee each year to cover expenses such as gardening, insurance and maintenance. The fee for the current year is £170 for 'non-mowers' and £60 for 'mowers'.
+
+### Schools
+
+The house is five minutes walk from [St Margaret's CoE Primary School](http://www.st-margarets.durham.sch.uk/). It is in the catchment area for [Durham Johnston Comprehensive School](http://www.durham-johnston.durham.sch.uk/).
+
+### Council Tax
+
+The house is currently Band E. The annual Council Tax charge for the year beginning April 2012 will be £1868.04.
+
+### Water and sewage
+
+A water meter has been installed. The *fixed* charge for water and sewage services in the year beginning April 2011 will be £112.70 (there is a volumetric charge on top of this). See [Northumbrian Water's Metered Charges](http://www.nwl.co.uk/Meteredcharges.aspx) for further details.
+
+### Parking
+
+The streets around Briardene are part of the [City's Residents' Parking
+scheme](http://www.durham.gov.uk/Pages/Service.aspx?ServiceId=474).
+
+### Parks
+
+The communal gardens are not really suitable for ball games, but there is a large flat area at the bottom of St Margaret's graveyard across the road. For swings, *etc*, there are two small parks in the Viaduct area (10 minutes walk with a pushchair), and Wharton Park above the railway station.
+
+### Allotments
+
+It is not possible to have a large vegetable patch in the garden, but the [St Margaret's allotments](http://www.dur.ac.uk/h.j.harris/smaa/home.htm) are just across the road.
+
+## Directions
+
+### Driving
+
+Driving along Margery Lane, turn into Summerville (left, if you have come past Durham School, right if you have come from the traffic lights at the bottom of the Peth). The street bends to the left and becomes Back Nevilledale Terrace. Number 35 is the first modern house on the lefthand side.
+
+### Walking
+
+Walking along Margery Lane, turn into Briardene (left, if you have come past Durham School, right if you have come from the traffic lights at the bottom of the Peth). Lower Briardene is on your right. Go up the footpath with the laurels on your right. The communal garden is on your right, between the two rows of houses. Go up the brick steps and turn right at the top. Walk down Back Nevilledale Terrace to the last modern house on your right.
