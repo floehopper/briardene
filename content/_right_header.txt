@@ -1,0 +1,12 @@
+---
+filter:
+  - erb
+  - markdown
+---
+
+* Contact: Hannah Smithson & James Mead
+* Email: [hannah.smithson@durham.ac.uk](mailto:hannah.smithson@durham.ac.uk?subject=House for sale)
+* Work Telephone: 0191 3343290
+* Home Telephone: 0191 3832936
+* Mobile Telephone: 07939 156754
+

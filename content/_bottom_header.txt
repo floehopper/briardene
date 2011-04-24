@@ -1,0 +1,10 @@
+---
+filter:
+  - erb
+  - markdown
+---
+
+<a href="#outline">Outline</a> | <a href="#room-by-room">Room by Room</a> | <a href="#additional-information">Additional Information</a> | <a href="#directions">Directions</a>
+
+<hr />
+

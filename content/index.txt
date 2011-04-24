@@ -4,21 +4,8 @@ filter:
   - erb
   - markdown
 ---
-## Summary
 
-A modern three-storey townhouse in the centre of Durham with views of the Cathedral and Castle. Two reception rooms, kitchen/breakfast room, three bedrooms, garage, off-road parking, sunny patio and very large communal garden.
-
-* Contact: Hannah Smithson & James Mead
-* Email: hannah.smithson@durham.ac.uk
-* Work Telephone: 0191 3343290
-* Home Telephone: 0191 3832936
-* Mobile Telephone: 07939 156754
-
-### Disclaimer
-
-We have tried to make the following particulars as accurate as possible, but we're sure you will appreciate that we're obliged to point out that they cannot be relied on! We have also avoided the more fanciful value-laden adjectives.
-
-## Outline
+<h2 id="outline">Outline</h2>
 
 Briardene is a harmonious development of 35 houses on what was formerly Cathedral land, designed by [Donald Insall Associates](http://www.insall-lon.co.uk/), built in 1972-8, and described by Martin Roberts as "noteworthy" ([Durham: 1000 Years of History](http://www.amazon.co.uk/dp/0752425374), Tempus, 2003, p. 174).
 
@@ -35,7 +22,7 @@ The house was built in 1977. It has gas-fired central heating and water heating,
 
 The house is in a good decorative state, with plain painted walls and white ceilings in all rooms. The internal doors are varnished dark wood, and the skirtings and door- and window-surrounds are generally white. There are plain fitted carpets in the hall, stairs, and landing, and in the two sitting rooms. The fittings in the kitchen and bathrooms are in good working order but unchanged during the current occupation.
 
-## Room By Room
+<h2 id="room-by-room">Room By Room</h2>
 
 The room measurements are taken from the brochure drawn up at the time the previous owner bought the house (July 1996); they are only approximate.
 
@@ -110,7 +97,7 @@ Full-length window. Radiator (55").
 
 Partially boarded, making a storage space of approximately 8' by 6'. Double layer of fibreglass insulation.
 
-## Additional Information
+<h2 id="additional-information">Additional Information</h2>
 
 ### Covenants
 
@@ -145,7 +132,7 @@ There is a large flat area suitable for ball games at the bottom of St Margaret'
 
 It is not possible to have a large vegetable patch in the garden, but the [St Margaret's allotments](http://www.dur.ac.uk/h.j.harris/smaa/home.htm) are just across the road.
 
-## Directions
+<h2 id="directions">Directions</h2>
 
 ### Driving
 
@@ -154,3 +141,8 @@ Driving along Margery Lane, turn into Summerville (left, if you have come past D
 ### Walking
 
 Walking along Margery Lane, turn into Briardene (left, if you have come past Durham School, right if you have come from the traffic lights at the bottom of the Peth). Lower Briardene is on your right. Go up the footpath with the laurels on your right. The communal garden is on your right, between the two rows of houses. Go up the brick steps and turn right at the top. Walk down Back Nevilledale Terrace to the last modern house on your right.
+
+## Disclaimer
+
+We've tried to make the following particulars as accurate as possible, but we're sure you will appreciate that we're obliged to point out that they cannot be relied on!
+

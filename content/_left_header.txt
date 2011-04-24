@@ -1,0 +1,7 @@
+---
+filter:
+  - erb
+  - markdown
+---
+
+[![The house in spring](/ParticularsFor35Briardene_files/houseInSpringCrop200.jpg)](/ParticularsFor35Briardene_files/houseInSpring60percent.jpg)

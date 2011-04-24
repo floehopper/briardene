@@ -21,10 +21,7 @@ filter:    erb
    <!-- Homepage CSS -->
    <link rel="stylesheet" href="/css/site.css" type="text/css" media="screen, projection" />
 
-   <script type="text/javascript"
-       src="http://maps.google.com/maps/api/js?sensor=false">
-   </script>
-
+   <script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"></script>
    <script type="text/javascript">
      function initializeMap() {
        var latlng = new google.maps.LatLng(54.7739,-1.5854);
@@ -57,7 +54,19 @@ filter:    erb
 
    <div class="column span-20 prepend-2 append-2 first last" id="header">
      <p class="title">House for Sale: 35 Briardene, Durham City</p>
-     <hr>
+     <hr />
+     <div class="column span-20 first last">
+       <%= render(:partial => "top_header") %>
+     </div>
+     <div class="column span-10 first">
+       <%= render(:partial => "left_header") %>
+     </div>
+     <div class="column span-10 last">
+       <%= render(:partial => "right_header") %>
+     </div>
+     <div class="column span-20 first last">
+       <%= render(:partial => "bottom_header") %>
+     </div>
    </div>
 
    <div class="column span-15 prepend-2 first">
