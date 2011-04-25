@@ -4,7 +4,11 @@ filter:
   - markdown
 ---
 
-<a href="#outline">Outline</a> | <a href="#room-by-room">Room by Room</a> | <a href="#additional-information">Additional Information</a> | <a href="#directions">Directions</a>
+<hr class="space"/>
+
+<p style="text-align: center">
+  <a href="#location">Location</a> | <a href="#description">Description</a> | <a href="#room-by-room">Room by Room</a> | <a href="#additional-information">Additional Information</a> | <a href="#directions">Directions</a> | <a href="#disclaimer">Disclaimer</a>
+</p>
 
 <hr />
 

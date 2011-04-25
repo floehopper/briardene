@@ -1,7 +1,0 @@
----
-filter:
-  - erb
-  - markdown
----
-
-A modern three-storey townhouse in the centre of Durham with views of the Cathedral and Castle. Two reception rooms, kitchen/breakfast room, three bedrooms, garage, off-road parking, sunny patio and very large communal garden.

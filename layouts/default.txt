@@ -53,11 +53,10 @@ filter:    erb
 <div class="container">
 
    <div class="column span-20 prepend-2 append-2 first last" id="header">
-     <p class="title">House for Sale: 35 Briardene, Durham City</p>
-     <hr />
-     <div class="column span-20 first last">
-       <%= render(:partial => "top_header") %>
+     <div style="margin-top: 2em">
+       <h1>House for Sale: Briardene, Durham City</h1>
      </div>
+     <hr />
      <div class="column span-10 first">
        <%= render(:partial => "left_header") %>
      </div>
