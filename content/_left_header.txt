@@ -12,7 +12,7 @@ filter:
   <li>Three Bedrooms</li>
   <li>Garage</li>
   <li>Off-road Parking</li>
-  <li>Sunny Patio</li>
+  <li>Secluded Patio</li>
   <li>Large Communal Garden</li>
   <li>Quiet Location</li>
   <li>Freehold</li>
