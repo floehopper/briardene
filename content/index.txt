@@ -11,7 +11,7 @@ Briardene is a harmonious development of 35 houses on what was formerly Cathedra
 
 The development is an easy off-road walk to the Market Place where you will find a [Tesco Metro](http://www.tesco.com/storelocator/access/details.asp?bID=6029&l=D) and a [Marks & Spencer](http://www.marksandspencer.com/gp/store-locator/store-locator.html/278-3157984-8643465?ie=UTF8&viewID=details&postcode=DH1%203RB&storeID=2370&prevView=listing&client=mands_01&f_id=186&lon=-1.577010&lat=54.776010&db=GB) on Silver Street. You can walk through St Margaret's graveyard to [Framwellgate Bridge](http://en.wikipedia.org/wiki/Framwellgate_Bridge) or through the allotments to [Prebends Bridge](http://en.wikipedia.org/wiki/Prebends_Bridge) at the end of the [South Bailey](http://en.wikipedia.org/wiki/The_Bailey), and from here to the Cathedral and riverbanks. It is a five minute walk to St Margaret's CoE Primary School, a ten minute walk to the bus station, a fifteen minute walk to the railway station, and a twenty minute walk to the University Science Laboratories.
 
-<p id="map_canvas" style="width:500px; height:300px"></p>
+<p id="map_canvas" style="width:590; height:360px"></p>
 
 The sixteen houses of Lower Briardene (numbers 1-10 and 30-35) enclose a very large communal garden comprising banked lawns and mature trees and shrubs. To the front they look over the St Margaret's allotments and the wooded riverbank. Number 35 is aligned roughly along the east-west axis of the [Cathedral](http://www.durhamcathedral.co.uk/), which is visible from the first and second floors. From the second floor it is also possible to see the [Castle](http://www.dur.ac.uk/university.college/), and out as far as the hills above Houghton-le-Spring, about five miles away. Road access is off Back Nevilledale Terrace, via Summerville. There is off-road parking, and a large internal garage.
 
@@ -27,6 +27,8 @@ The house is in a good decorative state, with walls painted in pastel shades and
 <h2 id="room-by-room">Room By Room</h2>
 
 ### Ground floor
+
+[![Patio looking south](/images/patio-looking-south-190px.jpg)](/images/patio-looking-south.jpg)
 
 **Outside Area** 14'4" by 9'9". From Back Nevilledale Terrace, the front door is reached down eleven steps into a walled paved area, which is lit at night by a motion-sensitive halogen light. The original single-glazed wooden front door has been replaced by a uPVC double-glazed door.
 
@@ -44,6 +46,8 @@ The house is in a good decorative state, with walls painted in pastel shades and
 
 ### First floor
 
+[![Living room looking east towards cathedral](/images/living-room-looking-east-190px.jpg)](#)
+
 **Second sitting room** 21' by 11'6" with two full-length windows looking across the garden (view of the Cathedral tower), and two narrow full-length side windows, one looking south along the length of the garden and one looking north. Two radiators (55"). Cornicing.
 
 **Landing** Full-length window. Door to garage.
@@ -51,6 +55,8 @@ The house is in a good decorative state, with walls painted in pastel shades and
 **Garage** 22' by 9'10" (8'6" in height). Up-and-over garage door, window to garden, gas-fired central-heating and hot-water boiler. Gas meter. Built-in shelving.
 
 ### Second floor
+
+[![First bedroom](/images/first-bedroom-190px.JPG)](/images/first-bedroom.jpg)
 
 **First bedroom (double)** 13'6" by 9'11" with two windows looking across the garden (view of the Cathedral and Castle), and a narrow full-length side window looking south along the length of the garden. Fitted wardrobe. Radiator under windows (36").
 
@@ -110,6 +116,10 @@ Driving along Margery Lane, turn into Summerville (left, if you have come past D
 
 Walking along Margery Lane, turn into Briardene (left, if you have come past Durham School, right if you have come from the traffic lights at the bottom of the Peth). Lower Briardene is on your right. Go up the footpath with the laurels on your right. The communal garden is on your right, between the two rows of houses. Go up the brick steps and turn right at the top. Walk down Back Nevilledale Terrace to the last modern house on your right.
 
+<h2 id="contact-us">Contact Us</h2>
+
+To arrange a viewing, contact Hannah Smithson or James Mead by email ([contact@durham-house-for-sale.co.uk](mailto:contact@durham-house-for-sale.co.uk?subject=Durham House For Sale)) or by phone (07939 156754/07818 648010).
+
 <h2 id="disclaimer">Disclaimer</h2>
 
-We've tried to make the following particulars as accurate as possible, but we're sure you will appreciate that we're obliged to point out that they cannot be relied on! The room measurements are taken from the brochure drawn up at the time the previous owner bought the house (July 1996); they are only approximate.
+We've tried to make the particulars as accurate as possible, but we're obliged to point out that they can't be relied upon. The room measurements are taken from the brochure drawn up at the time the previous owner bought the house (July 1996); they are only approximate.

@@ -68,7 +68,7 @@ filter:    erb
      </div>
    </div>
 
-   <div class="column span-15 prepend-2 first">
+   <div class="column span-14 prepend-2 append-1 first">
       <%= @content %>
    </div>
 
@@ -78,7 +78,6 @@ filter:    erb
 
    <div class="column span-20 prepend-2 append-2 first last" id="footer">
      <hr />
-     <p>This website was created with <a href="http://webby.rubyforge.org">Webby</a></p>
    </div>
 
 </div>

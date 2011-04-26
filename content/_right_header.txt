@@ -7,3 +7,5 @@ filter:
 <a href="/ParticularsFor35Briardene_files/houseInSpring60percent.jpg">
   <img width="390px" alt="The house in spring" src="/ParticularsFor35Briardene_files/houseInSpring-width-390px.jpg"/>
 </a>
+
+<h2 style="text-align: center">Price £315,000</h2>

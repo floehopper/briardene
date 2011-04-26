@@ -4,65 +4,38 @@ filter:
   - markdown
 ---
 
-Overall, the following pictures give a fairly good idea about the layout of the rooms, but they are a poor guide to the room sizes. Click on each image to see a larger picture.
+[![Cathedral view on a sunny evening](/images/cathedral-sunny-evening-190px.jpg)](/images/cathedral-sunny-evening.jpg) Cathedral view on a sunny evening.
 
-[![Ground floor sitting room/dining room](/ParticularsFor35Briardene_files/sunny1stsitting200.JPG)](/ParticularsFor35Briardene_files/sunny1stsitting.JPG)
+[![Kitchen units and tiling](/images/kitchen-units-and-tiling-190px.jpg)](/images/kitchen-units-and-tiling.jpg) Kitchen units and tiling.
 
-Ground floor sitting room/dining room.
+[![Kitchen window looking north](/images/kitchen-window-looking-north-190px.jpg)](/images/kitchen-window-looking-north.jpg) Kitchen window looking north.
 
-[![Kitchen looking outwards](/ParticularsFor35Briardene_files/kitchen200.JPG)](/ParticularsFor35Briardene_files/kitchen.JPG)
+[![Ground floor sitting room](/images/ground-floor-sitting-room-190px.jpg)](/images/ground-floor-sitting-room.jpg) Ground floor sitting room.
 
-The kitchen, looking out to the patio.
+[![Downstairs toilet](/images/downstairs-toilet-190px.jpg)](/images/downstairs-toilet.jpg) Downstairs toilet.
 
-[![Kitchen units](/ParticularsFor35Briardene_files/kitchenAgain200.JPG)](/ParticularsFor35Briardene_files/kitchenAgain.JPG)
+[![Living room looking west](/images/living-room-looking-west-190px.jpg)](/images/living-room-looking-west.jpg) Living room looking west.
 
-Kitchen units and tiling.
+[![Empty living room looking east towards cathedral](/images/living-room-empty-looking-east-190px.jpg)](/images/living-room-empty-looking-east.jpg) Empty living room looking east towards cathedral.
 
-[![The patio](/ParticularsFor35Briardene_files/patio200.JPG)](/ParticularsFor35Briardene_files/patio.JPG)
+[![Staircase & Landing](/images/stairs-190px.jpg)](/images/stairs.jpg) Staircase and landing.
 
-The patio; we should have raked the leaves first. Those plants aren't dead, they're resting.
+[![Cathedral from first bedroom](/images/cathedral-from-first-bedroom-190px.jpg)](/images/cathedral-from-first-bedroom.jpg) Cathedral view from first bedroom.
 
-[![Downstairs toilet](/ParticularsFor35Briardene_files/dsToilet200.JPG)](/ParticularsFor35Briardene_files/dsToilet.JPG)
+[![Empty second bedroom](/images/second-bedroom-empty-190px.jpg)](/images/second-bedroom-empty.jpg) Empty second bedroom, also has view of the Cathedral and Castle.
 
-Downstairs toilet.
+[![Second bedroom](/images/second-bedroom-190px.jpg)](/images/second-bedroom.jpg) Second bedroom.
 
-[![Stairs & Landing](/ParticularsFor35Briardene_files/stairs200.JPG)](/ParticularsFor35Briardene_files/stairs.JPG)
+[![Third bedroom](/images/third-bedroom-190px.jpg)](/images/third-bedroom.jpg) Third bedroom.
 
-Airy stairs and landing.
+[![Bathroom](/images/bathroom-190px.jpg)](/images/bathroom.jpg) Bathroom.
 
-[![First floor sitting room](/ParticularsFor35Briardene_files/sunny2ndsitting200.JPG)](/ParticularsFor35Briardene_files/sunny2ndsitting.JPG)
+[![Looking west from the landing onto Back Nevilledate Terrace](/images/back-nevilledale-from-landing-window-190px.jpg)](/images/back-nevilledale-from-landing-window.jpg) Looking west from the landing onto Back Nevilledate Terrace.
 
-First floor sitting room, looking towards the Cathedral tower.
+[![Back Nevilledale Terrace](/images/back-nevilledale-sunny-190px.jpg)](/images/back-nevilledale-sunny.jpg) Back Nevilledale Terrace, looking out of the house to the south-west.
 
-[![View of the garden](/ParticularsFor35Briardene_files/sunnyGarden200.JPG)](/ParticularsFor35Briardene_files/sunnyGarden.JPG)
+[![Front of houses from Nevilledale Terrace](/images/house-from-back-nevilledale-190px.jpg)](/images/house-from-back-nevilledale.jpg) Front of houses from Back Nevilledale Terrace.
 
-View of the garden, looking north-east from the first floor. It's a lot leafier in the summer.
+[![Steps from Back Nevilledale Terrace towards Margery Lane](/images/briardene-steps-190px.jpg)](/images/briardene-steps.jpg) Steps from Back Nevilledale Terrace towards Margery Lane.
 
-[![First bedroom](/ParticularsFor35Briardene_files/bedroom1st200.JPG)](/ParticularsFor35Briardene_files/bedroom1st.JPG)
-
-First bedroom, has view of the Cathedral and Castle.
-
-[![Second bedroom](/ParticularsFor35Briardene_files/bedroom2nd200.JPG)](/ParticularsFor35Briardene_files/bedroom2nd.JPG)
-
-Second bedroom, also has view of the Cathedral and Castle.
-
-[![Cathedral view](/ParticularsFor35Briardene_files/sunyCathEven200.JPG)](/ParticularsFor35Briardene_files/sunyCathEven.JPG)
-
-Cathedral view from second floor, evening (first bedroom).
-
-[![View of the garden](/ParticularsFor35Briardene_files/gardenView2nd200.JPG)](/ParticularsFor35Briardene_files/gardenView2nd.JPG)
-
-View of the garden, looking south-east from the second floor.
-
-[![Third bedroom](/ParticularsFor35Briardene_files/bedroom3rd200.JPG)](/ParticularsFor35Briardene_files/bedroom3rd.JPG)
-
-
-Third bedroom (not such an inspiring view!).
-
-[![Bathroom](/ParticularsFor35Briardene_files/bathroom200.JPG)](/ParticularsFor35Briardene_files/bathroom.JPG)
-
-Bathroom.
-
-[![Back Nevilledale Terrace](/ParticularsFor35Briardene_files/sunnyNevilledale200.JPG)](/ParticularsFor35Briardene_files/sunnyNevilledale.JPG)
-
-Back Nevilledale Terrace, looking out of the house to the south-west.
+[![Side elevation looking south](/images/side-elevation-looking-south-190px.jpg)](/images/side-elevation-looking-south.jpg) Side elevation looking south.
