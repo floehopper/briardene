@@ -28,6 +28,7 @@ filter:    erb
      function initializeMap() {
        var latlng = new google.maps.LatLng(54.7739,-1.5854);
        var myOptions = {
+         scrollwheel: false,
          zoom: 14,
          center: latlng,
          mapTypeId: google.maps.MapTypeId.ROADMAP,
