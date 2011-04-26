@@ -1,5 +1,6 @@
 ---
 title: Durham House For Sale - Briardene
+author: James Mead
 filter:
   - erb
   - markdown

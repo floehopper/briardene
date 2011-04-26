@@ -10,6 +10,8 @@ filter:    erb
    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
    <title><%= @page.title %></title>
    <meta name="author" content="<%= @page.author %>" />
+   <meta name="description" content="House For Sale - 35 Briardene, Durham City" />
+   <meta name="keywords" content="house for sale property durham city briardene cathedral castle view quiet central garden patio garage" />
 
    <!--- Blueprint CSS Framework -->
    <link rel="stylesheet" href="/css/blueprint/screen.css" type="text/css" media="screen, projection">
@@ -78,6 +80,9 @@ filter:    erb
 
    <div class="column span-20 prepend-2 append-2 first last" id="footer">
      <hr />
+     <p class="small" style="text-align: center">
+       Last Updated: <%= Date.today %>
+     </p>
    </div>
 
 </div>
