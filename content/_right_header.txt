@@ -1,7 +1,6 @@
 ---
 filter:
   - erb
-  - markdown
 ---
 
 <a href="/ParticularsFor35Briardene_files/houseInSpring60percent.jpg">
