@@ -6,7 +6,7 @@ filter:
 
 ## A modern three-storey townhouse in the centre of Durham with views of the Cathedral and Castle.
 
-<ul style="font-size: 2em; margin-bottom: 0.75em">
+<ul style="font-size: 1.8em">
   <li>Two Reception Rooms</li>
   <li>Kitchen/Breakfast Room</li>
   <li>Three Bedrooms</li>
