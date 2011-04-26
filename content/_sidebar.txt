@@ -24,9 +24,7 @@ filter:
 
 [![Cathedral from first bedroom](/images/cathedral-from-first-bedroom-190px.jpg)](/images/cathedral-from-first-bedroom.jpg) Cathedral view from first bedroom.
 
-[![Empty second bedroom](/images/second-bedroom-empty-190px.jpg)](/images/second-bedroom-empty.jpg) Empty second bedroom, also has view of the Cathedral and Castle.
-
-[![Second bedroom](/images/second-bedroom-190px.jpg)](/images/second-bedroom.jpg) Second bedroom.
+[![Second bedroom](/images/second-bedroom-190px.jpg)](/images/second-bedroom.jpg) Second bedroom, also has view of the Cathedral and Castle.
 
 [![Third bedroom](/images/third-bedroom-190px.jpg)](/images/third-bedroom.jpg) Third bedroom.
 
