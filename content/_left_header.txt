@@ -14,6 +14,6 @@ filter:
   <li>Off-road Parking</li>
   <li>Sunny Patio</li>
   <li>Large Communal Garden</li>
-  <li>Very Quiet Area</li>
+  <li>Quiet Location</li>
   <li>Freehold</li>
 </ul>
