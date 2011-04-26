@@ -20,6 +20,8 @@ filter:
 
 [![Staircase & Landing](/images/stairs-190px.jpg)](/images/stairs.jpg) Staircase and landing.
 
+[![Looking west from the landing onto Back Nevilledate Terrace](/images/back-nevilledale-from-landing-window-190px.jpg)](/images/back-nevilledale-from-landing-window.jpg) Looking west from the landing onto Back Nevilledate Terrace.
+
 [![Cathedral from first bedroom](/images/cathedral-from-first-bedroom-190px.jpg)](/images/cathedral-from-first-bedroom.jpg) Cathedral view from first bedroom.
 
 [![Empty second bedroom](/images/second-bedroom-empty-190px.jpg)](/images/second-bedroom-empty.jpg) Empty second bedroom, also has view of the Cathedral and Castle.
@@ -29,8 +31,6 @@ filter:
 [![Third bedroom](/images/third-bedroom-190px.jpg)](/images/third-bedroom.jpg) Third bedroom.
 
 [![Bathroom](/images/bathroom-190px.jpg)](/images/bathroom.jpg) Bathroom.
-
-[![Looking west from the landing onto Back Nevilledate Terrace](/images/back-nevilledale-from-landing-window-190px.jpg)](/images/back-nevilledale-from-landing-window.jpg) Looking west from the landing onto Back Nevilledate Terrace.
 
 [![Back Nevilledale Terrace](/images/back-nevilledale-sunny-190px.jpg)](/images/back-nevilledale-sunny.jpg) Back Nevilledale Terrace, looking out of the house to the south-west.
 
