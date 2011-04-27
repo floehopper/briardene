@@ -12,7 +12,10 @@ Briardene is a harmonious development of 35 houses on what was formerly Cathedra
 
 The development is an easy off-road walk to the Market Place where you will find a [Tesco Metro](http://www.tesco.com/storelocator/access/details.asp?bID=6029&l=D) and a [Marks & Spencer](http://www.marksandspencer.com/gp/store-locator/store-locator.html/278-3157984-8643465?ie=UTF8&viewID=details&postcode=DH1%203RB&storeID=2370&prevView=listing&client=mands_01&f_id=186&lon=-1.577010&lat=54.776010&db=GB) on Silver Street. You can walk through St Margaret's graveyard to [Framwellgate Bridge](http://en.wikipedia.org/wiki/Framwellgate_Bridge) or through the allotments to [Prebends Bridge](http://en.wikipedia.org/wiki/Prebends_Bridge) at the end of the [South Bailey](http://en.wikipedia.org/wiki/The_Bailey), and from here to the Cathedral and riverbanks. It is a five minute walk to St Margaret's CoE Primary School, a ten minute walk to the bus station, a fifteen minute walk to the railway station, and a twenty minute walk to the University Science Laboratories.
 
-<p id="map_canvas" style="width:590; height:360px"></p>
+<p id="map_canvas" class="noprint" style="width:590px; height:360px"></p>
+
+<img class="printonly" src="http://maps.google.com/maps/api/staticmap?center=54.7739,-1.5854&zoom=14&size=590x360&maptype=roadmap
+&markers=54.7739,-1.5854&sensor=false" />
 
 The sixteen houses of Lower Briardene (numbers 1-10 and 30-35) enclose a very large communal garden comprising banked lawns and mature trees and shrubs. To the front they look over the St Margaret's allotments and the wooded riverbank. Number 35 is aligned roughly along the east-west axis of the [Cathedral](http://www.durhamcathedral.co.uk/), which is visible from the first and second floors. From the second floor it is also possible to see the [Castle](http://www.dur.ac.uk/university.college/), and out as far as the hills above Houghton-le-Spring, about five miles away. Road access is off Back Nevilledale Terrace, via Summerville. There is off-road parking, and a large internal garage.
 
