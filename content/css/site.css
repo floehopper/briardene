@@ -65,3 +65,7 @@ p.title {
 #header p.title { font-size: 3em; line-height: 1; margin-bottom: 0.5em; }
 
 /* EOF */
+
+#bullet-points {
+  font-size: 1.8em;
+}
