@@ -1,5 +1,5 @@
 ---
-title: Durham House For Sale - Briardene
+title: Durham House For Sale - Briardene DH1 4QU
 author: James Mead
 filter:
   - erb
