@@ -13,6 +13,7 @@ filter:    erb
    <meta name="description" content="House For Sale - 35 Briardene, Durham City" />
    <meta name="keywords" content="house for sale property durham city briardene cathedral castle view quiet central garden patio garage DH1" />
    <meta name="google-site-verification" content="6jj_tyDtJlMU-y9oYSPKscCZZyAsuokLjiQpC2eHxL4" />
+   <meta name="y_key" content="0b53f73cc88b45f8" />
 
    <!--- Blueprint CSS Framework -->
    <link rel="stylesheet" href="/css/blueprint/screen.css" type="text/css" media="screen, projection">
