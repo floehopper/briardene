@@ -109,7 +109,7 @@ A water meter has been installed. The *fixed* charge for water and sewerage serv
 
 ### Energy Performance Certificate
 
-Coming soon.
+[![Energy Performance Cetificate](/images/energy-performance-certificate-graphs.png)](/files/EPC_8939-6224-8360-7651-7926.pdf)
 
 <h2 id="directions">Directions</h2>
 
