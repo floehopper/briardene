@@ -65,6 +65,7 @@ GEM
     net-ssh-gateway (1.0.1)
       net-ssh (>= 1.99.1)
     rake (0.8.7)
+    rdiscount (1.6.8)
     request-log-analyzer (1.10.1)
     right_aws (2.0.0)
       right_http_connection (>= 1.2.1)
@@ -104,4 +105,5 @@ DEPENDENCIES
   floehopper-deploy!
   freerange-deploy!
   freerange-puppet!
+  rdiscount
   webby
