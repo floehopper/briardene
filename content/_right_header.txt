@@ -6,5 +6,3 @@ filter:
 <a href="/images/house-in-spring.jpg">
   <img width="390px" alt="The house in spring" src="/images/house-in-spring-390px.jpg"/>
 </a>
-
-<h2 style="text-align: center">Price £310,000</h2>
